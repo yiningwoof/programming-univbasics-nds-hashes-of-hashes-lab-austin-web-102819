@@ -25,10 +25,10 @@ PORTION_3 = {
   }
 }
 # 
-# PORTION_4 = {
-#   label: "Species",
-#   sub_category: nil
-# }
+PORTION_4 = {
+  label: "Species",
+  sub_category: nil
+}
 
 def naming_system
   # Remember:
